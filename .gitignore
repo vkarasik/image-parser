@@ -1,0 +1,5 @@
+/images/*/*.*
+/images_opt/*/*.*
+/log/*.csv
+/log/*.txt
+/.vscode/
